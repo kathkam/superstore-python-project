@@ -121,7 +121,7 @@ git clone https://github.com/kathkam/superstore-python-project.git
 cd superstore-python-project
 ```
 
-### 2. Create a virtual environment
+### 2. Create a virtual environment:
 ```
 python -m venv .venv
 .\.venv\Scripts\activate
@@ -131,7 +131,7 @@ You should now see (.venv) in the terminal
 
 ### 4. Install dependencies:  
 ```
-pip install pandas matplotlib
+pip install pandas matplotlib jupyter
 ```
 
 ### 5. Open the notebook:  
@@ -139,7 +139,7 @@ pip install pandas matplotlib
 jupyter notebook
 ```
 
-### 4. Open the analysis notebook  
+### 6. Open the analysis notebook  
 
 Run 03_data_analysis.ipynb  
 
